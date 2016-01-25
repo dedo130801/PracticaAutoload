@@ -1,0 +1,15 @@
+{
+    "name": "upemor/autoload",
+    "authors": [
+        {
+            "name": "Diana Diaz",
+            "email": "diana_diaz000@hotmail.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+    	"classmap":[
+    		"src/"
+    	]
+    }
+}
